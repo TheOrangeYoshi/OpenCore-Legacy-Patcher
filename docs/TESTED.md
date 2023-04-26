@@ -33,6 +33,7 @@ To aid users in troubleshooting, we've compiled a list of users who've reported 
 | ^^ | ^^ | cboukouv | ^^ | 0.0.21 | ^^ |
 | MacBookAir6,1 | <span style="color:red"> NO </span> | N/A | N/A | N/A | N/A |
 | MacBookAir6,2 | ^^ | ^^ | ^^ | ^^ | ^^ |
+| MacBookAir7,1 | <span style="color:#30BCD5"> YES </span> | TheBoredScripter | Stock | 0.6.4 | Everything works very well. |
 
 :::
 
